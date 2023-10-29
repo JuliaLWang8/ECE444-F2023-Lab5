@@ -13,4 +13,9 @@ Cons:
 * Time to write tests: writing tests for each feature may be time consuming for developers, especially for an application with many features. This may not be the best utilization of the developers time.
 * Updating tests: when requirements change, all tests poentially need to be updated, which can lead to extra work. 
 * Not compatible with projects: some projects which are more experiment focussed may not be compatible with TDD since the tests would constantly need to be updated.
-* Edge cases not guaranteed: TDD is subject to human error where the developer doesn't consider all possible test cases. This may lead to missing edge cases and issues. 
+* Edge cases not guaranteed: TDD is subject to human error where the developer doesn't consider all possible test cases. This may lead to missing edge cases and issues.
+
+### Tests in group project
+Link to test_api.py is [here](https://github.com/ECE444-2023Fall/project-1-web-application-design-group22-premium-potatoes/blob/feat/event_registration/api/utils/unit_tests/test_api.py)
+
+My functions: client, populate_db, test_registerEvent, test_unregisterEvent
